@@ -68,7 +68,6 @@ Universitas Siswa Bangsa Internasional (2011-2015) | GPA: 3.4
 - 🌐 Website: [yukopangestu.github.io/profile](https://yukopangestu.github.io/profile)
 - 💼 LinkedIn: [linkedin.com/in/yukopangestu](https://linkedin.com/in/yukopangestu)
 - 📧 Email: yuko.pangestu@gmail.com
-- 📱 Phone: 081807871601
 
 ---
 
